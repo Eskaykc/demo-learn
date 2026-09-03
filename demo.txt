@@ -1,0 +1,6 @@
+what we learned today
+> push
+> pull
+> github
+> repo changes
+> clone
